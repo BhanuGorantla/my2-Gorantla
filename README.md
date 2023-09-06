@@ -29,4 +29,14 @@ The pleasant **beaches** and **weather**
 | table tennis | hand | 3/5 |
 | basket ball | dunk | 8/4 |
 
+***
+# Pithy Quotes
+
+> You can't blame gravity for falling in love.
+
+> Anyone who has never made a mistake has never tried anything new.
+
+*** Albert Einstein
+
+
 
