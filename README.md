@@ -23,7 +23,7 @@ The pleasant **beaches** and **weather**
  *** 
  # Tables
 |  Name | Reason | Hours/Average |
-| --- | --- |
+| --- | --- | ---|
 | cricket | batting | 5/3 |
 | soccer | goal keeper | 2/1 |
 | table tennis | hand | 3/5 |
