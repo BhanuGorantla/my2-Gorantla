@@ -3,13 +3,17 @@
 ###### miami
 
 The pleasant **beaches** and **weather**
+ 
 
-
-# Part - 4
-lines before heading
 ---
-lines after heading
-Taking pictures, cool breeze, having beach food
+# activities list
+
+1. Taking pictures
+2. cool breeze
+3. having beach food
 
 //unordered list
-fish,chicken,carb
+
+- fish, 
+- chicken,
+- carb
