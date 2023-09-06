@@ -18,7 +18,8 @@ The pleasant **beaches** and **weather**
 - chicken,
 - carb.
 
- link to the MyStats - (https://github.com/BhanuGorantla/my2-Gorantla/blob/main/MyStats.md)
+
+ ![MyStatsLink](MyStats.md)
 
  *** 
  # Tables
@@ -32,11 +33,16 @@ The pleasant **beaches** and **weather**
 ***
 # Pithy Quotes
 
-> You can't blame gravity for falling in love.
+> You can't blame gravity for falling in love. - ***Albert Einstein***
 
-> Anyone who has never made a mistake has never tried anything new.
+> Anyone who has never made a mistake has never tried anything new. - ***Albert Einstein***
 
-*** Albert Einstein
+
+***
+# Code Fencing
+
+
+
 
 
 
