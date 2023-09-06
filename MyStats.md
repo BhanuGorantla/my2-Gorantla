@@ -4,6 +4,3 @@ Im Bhanu Gorantla and i was born and raised in Guntur.I'm passionate about crick
 
 
 [My Image](https://github.com/BhanuGorantla/my2-Gorantla/blob/main/Fight-Club-Tyler-Durden-Costume.jpg) 
-
-
-[MyStats](/MyStats.md)
