@@ -18,7 +18,7 @@ The pleasant **beaches** and **weather**
 - chicken,
 - carb.
 
- link to the MyStats -  [https://github.com/BhanuGorantla/my2-Gorantla/blob/main/Fight-Club-Tyler-Durden-Costume.jpg](https://github.com/BhanuGorantla/my2-Gorantla/blob/main/MyStats.md)
+ link to the MyStats - (https://github.com/BhanuGorantla/my2-Gorantla/blob/main/MyStats.md)
 
  *** 
  # Tables
