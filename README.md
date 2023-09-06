@@ -23,19 +23,19 @@ The pleasant **beaches** and **weather**
 
  *** 
  # Tables
-|  Name | Reason | Hours/Average |
+|  Name | Reason | Hours/week |
 | --- | --- | ---|
-| cricket | batting | 5/3 |
-| soccer | goal keeper | 2/1 |
-| table tennis | hand | 3/5 |
-| basket ball | dunk | 8/4 |
+| cricket | batting | 5 |
+| soccer | goal keeper | 2 |
+| table tennis | hand | 3 |
+| basket ball | dunk | 8|
 
 ***
 # Pithy Quotes
 
-> You can't blame gravity for falling in love. - ***Albert Einstein***
+> You can't blame gravity for falling in love. - *Albert Einstein*
 
-> Anyone who has never made a mistake has never tried anything new. - ***Albert Einstein***
+> Anyone who has never made a mistake has never tried anything new. - *Albert Einstein*
 
 
 ***
