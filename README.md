@@ -22,7 +22,8 @@ The pleasant **beaches** and **weather**
  ![MyStatsLink](MyStats.md)
 
  *** 
- # Tables
+This following table gives overview data about games.
+ # Table
 |  Name | Reason | Hours/week |
 | --- | --- | ---|
 | cricket | batting | 5 |
@@ -40,6 +41,7 @@ The pleasant **beaches** and **weather**
 
 ***
 # Code Fencing
+
 
 
 
